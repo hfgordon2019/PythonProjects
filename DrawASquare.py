@@ -1,5 +1,7 @@
 from Myro import *
-#init("sim")
+init("sim")
 penDown ()
-forward(1,1)
+forward(5,1)
 #save this as a project. end it in py (python file)
+turnBy(90)
+forward(0,1)
